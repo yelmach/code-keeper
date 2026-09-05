@@ -1,0 +1,16 @@
+[submodule "api-gateway-app"]
+	path = api-gateway-app
+	url = https://github.com/yelmach/api-gateway-app.git
+	branch = main
+[submodule "inventory-app"]
+	path = inventory-app
+	url = https://github.com/yelmach/inventory-app.git
+	branch = main
+[submodule "billing-app"]
+	path = billing-app
+	url = https://github.com/yelmach/billing-app.git
+	branch = main
+[submodule "cloud-infrastructure"]
+	path = cloud-infrastructure
+	url = https://github.com/yelmach/cloud-infrastructure.git
+	branch = main
